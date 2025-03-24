@@ -1,0 +1,15 @@
+{
+  "name": "@tejjnayak/my-package",
+  "version": "1.0.0",
+  "description": "My first GitHub package",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tejjnayak/my-package.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "author": "Tejaswini Nayak",
+  "license": "MIT"
+}
+
