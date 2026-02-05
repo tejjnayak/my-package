@@ -1,3 +1,2 @@
-license_key=license_key=ajedbgfakshef1234
+license_key=AbCDeF1234567890XYZ
 NGINX_GPGKEY=abcdef1234567890XYZ
-
