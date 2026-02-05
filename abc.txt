@@ -1,1 +1,2 @@
 NGINX_GPGKEY=abcdef1234567890XYZ
+license_key=ajedbgfakshef
