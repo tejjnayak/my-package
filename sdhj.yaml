@@ -1,2 +1,15 @@
-AWS_ACCESS_KEY_ID=AKIAIOSFODNN7EXAMPLE
-AWS_SECRET_ACCESS_KEY=wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
+aws:
+  access_key_id: AKIAIOSFODNN7EXAMPLE
+  secret_access_key: wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
+  additional_key: AKIA1234567890ABCD
+
+license_keys:
+  - LIC-PRD-9F8A2C7D6E5B4A3
+  - 237c2fcf10ef0a94349e350860efee13967a8c80
+
+nginx:
+  gpg_key: abcdef1234567890XYZ
+
+credentials:
+  password: g4t8b2m6q1
+  app_secret: QUYWOIgavgrtgaegar
