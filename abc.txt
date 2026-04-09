@@ -2,3 +2,4 @@ password=BAkfbhuef123
 app-secret: QUYWOIgavgrtgaegar
 password = Ydhr1435njdsjhKLMN_123
 password=password123
+key = bwhjednwdnb
