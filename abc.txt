@@ -1,4 +1,4 @@
-password=g4t8b2m6q1
+password=BAkfbhuef123
 app-secret: QUYWOIgavgrtgaegar
 password = Ydhr1435njdsjhKLMN_123
 password=password123
