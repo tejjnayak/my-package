@@ -3,3 +3,9 @@ app-secret: QUYWOIgavgrtgaegar
 password = Ydhr1435njdsjhKLMN_123
 password=password123
 key = bwhjednwdnb
+api_key = "abcd1234efgh5678ijkl"
+token: 'ZXhhbXBsZXRva2VuMTIzNDU2'
+password => mysupersecretvalue12345
+clientsecret := "A1B2C3D4E5F6G7H8I9J0K"
+auth_token -> abcdefghijklmnopqrstuvwxyz123456
+accessKey = `longsecretvalue_1234567890`
