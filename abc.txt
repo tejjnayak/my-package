@@ -11,3 +11,4 @@ auth_token -> abcdefghijklmnopqrstuvwxyz123456
 accessKey = `longsecretvalue_1234567890`
 secret_key: enc(s6Fd+oxT8X+Iw0feXYo6Zwf+H/GOfZoGzjfcjhgvyhfcj8sQDRvOt5LFZ71BOYNvdIcKcgQrFYdgiMLaQ==)
 access_key: enc(VZItxqYPeGle3A69ocjIFTEVvjrchgcvyC8rRENbSnTuQq9nM5r6s/aqkQJVvn6)
+NGINX_GPGKEY=abcdef1234567890XYZ
